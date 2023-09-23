@@ -57,7 +57,7 @@ The samples are for checking the training code.
 
 For the full dataset, please download the training dataset from [VGGSound](https://www.robots.ox.ac.uk/~vgg/data/vggsound/) or VEGAS.
 
-The categories we used for training are listed in [categories]()
+Although we provide the categories which we used ([category_list](https://github.com/postech-ami/Sound2Scene/blob/main/samples/categories.txt)), no category information were used for training.
 ```
 python train.py --data_path [path containing image and audio pairs] --save_path [path for saving the checkpoints]
 

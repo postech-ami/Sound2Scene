@@ -1,0 +1,1 @@
+python train.py --data_path ./samples/training --save_path ./samples/output/best.pth

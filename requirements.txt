@@ -1,0 +1,8 @@
+matplotlib
+tqdm
+scikit-learn
+h5py
+soundfile
+librosa
+pydub
+tensorboard

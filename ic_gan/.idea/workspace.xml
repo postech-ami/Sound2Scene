@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:orgin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7cb15de1-7ecc-4870-8099-5586af390629" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="93954508-a54b-4a56-979f-f771870922b6" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2237fG1lY29480ZA6LjgCk01v1Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "last_opened_file_path": "/Users/sungbin/Library/CloudStorage/OneDrive-postech.ac.kr/Codebase/Sound2SCene/ic_gan",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/preprocess" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cb15de1-7ecc-4870-8099-5586af390629" name="Default Changelist" comment="" />
+      <created>1639054518965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639054518965</updated>
+      <workItem from="1639054520257" duration="4174000" />
+      <workItem from="1639132615782" duration="9742000" />
+      <workItem from="1639199830748" duration="25611000" />
+      <workItem from="1640174770420" duration="20676000" />
+      <workItem from="1640840693327" duration="34705000" />
+      <workItem from="1641292734827" duration="7634000" />
+      <workItem from="1641378114167" duration="43307000" />
+      <workItem from="1642220851099" duration="12893000" />
+      <workItem from="1642502488593" duration="17166000" />
+      <workItem from="1642639773748" duration="78561000" />
+      <workItem from="1643520370623" duration="17072000" />
+      <workItem from="1643804963332" duration="68014000" />
+      <workItem from="1644538118620" duration="63982000" />
+      <workItem from="1645162457447" duration="9580000" />
+      <workItem from="1645230338624" duration="92758000" />
+      <workItem from="1646181803967" duration="28437000" />
+      <workItem from="1647001540174" duration="5247000" />
+      <workItem from="1647689661851" duration="6085000" />
+      <workItem from="1648621204066" duration="10367000" />
+      <workItem from="1649245693925" duration="343000" />
+      <workItem from="1649250770979" duration="349000" />
+      <workItem from="1652862570155" duration="914000" />
+      <workItem from="1653355668787" duration="112000" />
+      <workItem from="1653355827473" duration="9055000" />
+      <workItem from="1653406270330" duration="21275000" />
+      <workItem from="1653814758835" duration="3973000" />
+      <workItem from="1657971366171" duration="967000" />
+      <workItem from="1658024126925" duration="21415000" />
+      <workItem from="1658919658265" duration="521000" />
+      <workItem from="1658941429530" duration="1090000" />
+      <workItem from="1659509421339" duration="704000" />
+      <workItem from="1660230496524" duration="417000" />
+      <workItem from="1660461750210" duration="383000" />
+      <workItem from="1660462931247" duration="11785000" />
+      <workItem from="1660911428671" duration="5224000" />
+      <workItem from="1661230482037" duration="11217000" />
+      <workItem from="1661304455449" duration="27066000" />
+      <workItem from="1680680661875" duration="40000" />
+      <workItem from="1680702132608" duration="25000" />
+      <workItem from="1688380125433" duration="2880000" />
+      <workItem from="1689842500588" duration="919000" />
+      <workItem from="1689936833663" duration="8381000" />
+      <workItem from="1695372004040" duration="1776000" />
+      <workItem from="1695445314430" duration="7647000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,1 +1,1 @@
-python test.py --checkpoint_vggish /local_data/sung/audio2scene/dataset/a2s2s/vggsound_log/logs/ours/0216_top10_mean/ckpt/22.pth --wav_path ./samples/inference --out_path ./samples/output
+python test.py --checkpoint_vggish ./checkpoints/sound2scene.pth --wav_path ./samples/inference --out_path ./samples/output

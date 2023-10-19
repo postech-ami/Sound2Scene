@@ -36,16 +36,29 @@ After downloading the models, place them in ./checkpoints.
 ./checkpoints/swav.pth.tar
 ```
 
-## Running Sound2Scene
-Run below command to generate images from the audio.
-We provide sample audios in **./samples/inference**.
-```
-python test.py --checkpoint_vggish [checkpoint for Sound2Scene] --wav_path [audio directory] --out_path [output directory]
+### Highly correlated audio-visual pair dataset
+We provide the annotations of the highly correlated audio-visual pairs from the VGGSound dataset.
 
-#or
+Download [top1_boxes_top10_moments.json]([https://drive.google.com/file/d/1MfQo9Y6cBwSo9sYkwj2gG9kNa_1fuaUJ/view?usp=sharing](https://drive.google.com/file/d/1uFht0YV8al9RqMPR2Umn99xWPluOU-UQ/view?usp=sharing))
 
-bash test.sh
+The annotation file contains each video name with the corresponding top 10 audio-visually correlated frame numbers.
+
 ```
+{'9fhhMaXTraI_44000_54000': [47, 46, 45, 23, 42, 9, 44, 56, 27, 17],
+'G_JwMzRLRNo_252000_262000': [2, 1, 26, 29, 15, 16, 11, 3, 14, 23], ...}
+
+# 9fhhMaXTraI_44000_54000: video name
+# [47, 46, 45, 23, 42, 9, 44, 56, 27, 17]: frame number (e.g., 47th, 46th frame, ...)
+# 47th frame is the highest audio-visually correlated frame
+```
+
+Please follow the steps below to select a highly correlated audio-visual pair dataset.
+
+**(Step 1)** Download the training dataset from [VGGSound](https://www.robots.ox.ac.uk/~vgg/data/vggsound/).
+
+**(Step 2)** Extract the frames of each video in 10 fps.
+
+**(Step 3)** Select the frame that is mentioned in the annotation file.
 
 
 ## Training Sound2Scene

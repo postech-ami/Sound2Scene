@@ -60,6 +60,8 @@ Please follow the steps below to select a highly correlated audio-visual pair da
 
 **(Step 3)** Select the frame that is mentioned in the annotation file.
 
+If you find this dataset helpful, please consider also citing: 
+[Less Can Be More: Sound Source Localization With a Classification Model](https://openaccess.thecvf.com/content/WACV2022/html/Senocak_Less_Can_Be_More_Sound_Source_Localization_With_a_Classification_WACV_2022_paper.html).
 
 ## Training Sound2Scene
 Run below command to train the model.

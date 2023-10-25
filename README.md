@@ -81,6 +81,9 @@ python train.py --data_path [path containing image and audio pairs] --save_path 
 bash train.sh
 ```
 
+## Evaluating Sound2Scene
+(1) We used off-the-shelf CLIP model (``Vit-B/32'') to evaluate R@k performance.
+(2) We trained the [Inception model](https://drive.google.com/file/d/1GbZ25SShTssQ-G5Ynhzsjwz6QkPWWQNm/view?usp=drive_link) on VGGSound for measuring FID and Inception score.
 
 ## Citation
 If you find our code or paper helps, please consider citing:

@@ -39,7 +39,7 @@ After downloading the models, place them in ./checkpoints.
 ### Highly correlated audio-visual pair dataset
 We provide the annotations of the highly correlated audio-visual pairs from the VGGSound dataset.
 
-Download [top1_boxes_top10_moments.json]([https://drive.google.com/file/d/1MfQo9Y6cBwSo9sYkwj2gG9kNa_1fuaUJ/view?usp=sharing](https://drive.google.com/file/d/1uFht0YV8al9RqMPR2Umn99xWPluOU-UQ/view?usp=sharing))
+Download [top1_boxes_top10_moments.json](https://drive.google.com/file/d/1uFht0YV8al9RqMPR2Umn99xWPluOU-UQ/view?usp=drive_link)
 
 The annotation file contains each video name with the corresponding top 10 audio-visually correlated frame numbers.
 

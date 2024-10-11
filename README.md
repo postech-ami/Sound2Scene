@@ -63,6 +63,8 @@ Please follow the steps below to select a highly correlated audio-visual pair da
 If you find this dataset helpful, please consider also citing: 
 [Less Can Be More: Sound Source Localization With a Classification Model](https://openaccess.thecvf.com/content/WACV2022/html/Senocak_Less_Can_Be_More_Sound_Source_Localization_With_a_Classification_WACV_2022_paper.html).
 
+The VEGAS dataset is available [here](https://drive.google.com/file/d/1ah2s3m96Nz0MUQX9Z9i4pRsqH89rTtu4/view?usp=drive_link).
+
 ## Training Sound2Scene
 Run below command to train the model.
 
